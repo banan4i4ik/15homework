@@ -1,0 +1,29 @@
+html {
+  background-image: url(thor-4-vend2.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+div {
+  display: flex;
+}
+a {
+  text-decoration: none;
+  font-family: "Stalinist One", cursive;
+  color: darkslategrey;
+}
+.hq {
+  position: absolute;
+  top: 290px;
+  right: 700px;
+  justify-items: center;
+}
+.hg2 {
+  position: absolute;
+  top: 344px;
+  right: 629px;
+}
